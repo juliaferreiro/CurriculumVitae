@@ -41,22 +41,21 @@ h2{
 }
 
 .imagen {
-    float: right;
-    margin-right: 90px;
-    border: 10px solid rgb(221, 89, 221);
-    border-radius: 20px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 50%x;
 }
 
 header {
     padding: 40px;
     margin-bottom: 100px;
-    background: linear-gradient(to right, rgba(216, 66, 166, 0.925), rgb(55, 202, 228));
+    background: linear-gradient(to right, rgba(216, 189, 66, 0.925), rgb(55, 202, 228));
 }
 
 footer {
     padding: 100px;
     margin-top: 100px;
-    background: linear-gradient(to right, rgb(218, 86, 200), rgb(61, 182, 230));
+    background: linear-gradient(to right, rgba(216, 189, 66, 0.925), rgb(55, 202, 228));
     position: relative;
 }
 
