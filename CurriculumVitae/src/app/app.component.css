@@ -8,20 +8,37 @@ body {
 
 .textoopa{
 
-  display: flex;
+  margin-left: 460px;
+  margin-top: -630px;
+
 }
+
+.textoopa1{
+
+  margin-left: 1200px;
+  margin-top: -395px;
+
+}
+
+
+
+.section-title1{
+
+  color: rgb(44 49 46);
+  margin-left: 15px;
+  margin-top: 15px;
+  
+  }
+
 p {
     margin-left: 40px;
 }
 
 h2{
     margin-left: 15px;
-    text-shadow: -1px -1px 0 black,
-                1px -1px 0 black,
-               -1px 1px 0 black,
-                1px 1px 0 black;
-    color: rgb(157, 213, 218); 
-
+    font-size: 25px;
+  
+    color: rgba(110, 192, 147, 0.925)
 }
 
 .hv {
@@ -38,12 +55,21 @@ h2{
     text-align: center;
     font-family: 'Trebuchet MS';
     color: rgb(246, 252, 249);
+    margin-top: 100px;
+    font-size: 3vw;
 }
 
 .imagen {
-    float: left;
-    margin-right: 10px;
-    border-radius: 50%x;
+    margin-top: -180px;
+    border-radius: 200px
+}
+
+.rectangulo {
+  margin-top: -100px;
+  width: 250px;           
+  height: 650px;          
+  background: linear-gradient(to right, rgba(224, 208, 136, 0.925), rgb(185, 227, 235));       
+  
 }
 
 header {
