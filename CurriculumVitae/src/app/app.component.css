@@ -13,6 +13,12 @@ body {
 
 }
 
+.section1{
+  margin-top: 60px;
+
+}
+
+
 .textoopa1{
 
   margin-left: 1200px;
@@ -26,7 +32,7 @@ body {
 
   color: rgb(44 49 46);
   margin-left: 15px;
-  margin-top: 15px;
+  margin-top: 65px;
   
   }
 
@@ -48,7 +54,7 @@ h2{
 }
 
 .hv h2 {
-        color: rgb(44 49 46);
+        color: rgb(209, 223, 214);
     }
 
 .titulo {
@@ -67,7 +73,7 @@ h2{
 .rectangulo {
   margin-top: -100px;
   width: 250px;           
-  height: 650px;          
+  height: 700px;          
   background: linear-gradient(to right, rgba(224, 208, 136, 0.925), rgb(185, 227, 235));       
   
 }
