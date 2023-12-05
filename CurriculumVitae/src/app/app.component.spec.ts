@@ -27,3 +27,5 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('CurriculumVitae app is running!');
   });
 });
+
+
